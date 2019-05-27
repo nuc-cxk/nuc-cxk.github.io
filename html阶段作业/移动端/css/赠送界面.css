@@ -1,0 +1,84 @@
+html{
+	font-size: 100px;
+}
+body{
+	font-size: 100px;
+}
+@media screen and (min-width:768px) {
+	html {
+		font-size: 200px;
+	}
+	
+	body {
+		font-size: 200px;
+	}
+}
+.wrapper{
+			/* display: flex; */
+			justify-content: center;
+			flex-wrap: wrap;
+			text-align: center;
+		}
+.wrapper .title{
+	text-align: center;
+}
+.wrapper .title p{
+	font-size: .18rem;
+	padding-top: 0.16rem;
+
+}
+.wrapper b{
+	font-size: .2rem;
+	text-align: center;
+
+}
+.wrapper .img1 img{
+	margin-top: .25rem;
+	width:48.5%;
+	height:48.5%;
+}
+.img2 .box{
+	margin: 0 auto;
+	width: 80%;
+	font-size: .16rem;
+	border: 1px solid lightgray;
+	border-radius: .05rem;
+	padding:.1rem .2rem;
+	margin-top: .2rem;
+	text-align: center;
+	line-height: .4rem;
+}
+.img2 .down{
+	font-size: .12rem;
+	margin: .1rem .1rem;
+}
+.wrapper .img1{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.wrapper .said {
+	font-size: .12rem;
+	color: gray;
+	margin-left: .2rem;
+	padding-bottom: .2rem;
+}
+.wrapper .said .text{
+	border-radius: .08rem;
+	font-size: .16rem;
+	border: none;
+	background: whitesmoke;
+	margin-top: .1rem;
+}
+.box img{
+	width: 95%;
+	margin-top: -.9rem;
+}
+.said{
+	margin-top: .1rem;
+	text-align: left;
+}
+.box{
+	text-align: center;
+}

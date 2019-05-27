@@ -1,0 +1,143 @@
+* {
+				padding: 0;
+				margin: 0;
+			}
+			.fl {
+				float: left;
+			}
+
+			.fr {
+				float: right;
+			}
+
+			.shoudao {
+				background: url(img收到/2back.png) center top no-repeat;
+				/* border: 1px solid red; */
+				width: 102%;
+				height: 2000px;
+				background-size: 961px;
+			}
+
+			.header {
+				margin: auto;
+				padding-top: 80px;
+				width: 893px;
+			}
+			.jiantou{
+				padding-right: 369px;
+			}
+			.img1{
+				/* position: absolute; */
+				margin: auto;
+				/* width: 600px; */
+			}
+			.nei1{
+				position: absolute;
+				/* margin: auto; */
+				margin-left: 305px;
+				margin-top: -356px;
+			}
+			.nei2{
+				position: absolute;
+				/* margin: auto; */
+				margin-left: 270px;
+				margin-top: -275px;
+			}
+			.nei3{
+				position: absolute;
+				/* margin: auto; */
+				margin-left: 246px;
+				margin-top: -238px;
+				font-size: 30px;
+			}
+			.nei4{
+				position: absolute;
+				/* margin: auto; */
+				margin-left: 257px;
+				margin-top: -121px;
+				font-size: 20px;
+			}
+			.nei4 span{
+				color: #69be49;
+			}
+			.waikuang1{
+				margin: auto;
+				padding-top: 50px;
+				
+			}
+			.no1{
+				margin: auto;
+				width: 660px;
+			}
+			.no2{
+				margin: auto;
+				width: 660px;
+				margin-top: 40px;
+			}
+			.no3{
+				margin: auto;
+				width: 660px;
+				margin-top: 24px;
+			}
+			.no4{
+				margin: auto;
+				width: 660px;
+				margin-top: 24px;
+			}
+			.nei2-1{
+				position: absolute;
+				margin-left: 50px;
+				margin-top: -155px;
+				
+			}
+			.nei2-1 span{
+				margin-left: 380px;
+				padding-top: 20px;
+				color: #f9cc5e;
+				font-size: 20px;
+			}
+			.nei2-2{
+				position: absolute;
+				margin-left: 44px;
+				margin-top: -94px;
+				
+			}
+			.nei2-3{
+				margin-right: 20px;
+			}
+			.nei2-4{
+				margin-top: 20px;
+				font-size: 22px;
+			}
+			.yashua{
+				margin-right: 170px;
+			}
+			.labu{
+				position: absolute;
+				margin-top: -31px;
+				margin-left: 432px;
+				width: 63px;
+			}
+			.dizhi{
+				position: absolute;
+				margin-left: 546px;
+				margin-top: -103px;
+				color: #f9cc5e;
+				font-size: 20px;
+			}
+			.fahuo{
+					margin-left: 380px;
+					padding-top: 20px;
+					color: #83c76b !important;
+					font-size: 20px;
+			}
+			.kefu{
+				margin: auto;
+				width: 96px;
+				margin-top: 40px;
+			}
+			.kefu a{
+				text-decoration: none;
+				color: #576b95;
+
+			}

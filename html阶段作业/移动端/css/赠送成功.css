@@ -1,0 +1,67 @@
+html {
+	font-size: 100px;
+}
+
+body {
+	font-size: 100px;
+}
+
+@media screen and (min-width:768px) {
+	html {
+		font-size: 200px;
+	}
+
+	body {
+		font-size: 200px;
+	}
+
+	p {
+		font-size: .15rem;
+	}
+}
+
+.wrapper {
+	/* display: flex; */
+	justify-content: center;
+	flex-wrap: wrap;
+	text-align: center;
+	/* text-align: center; */
+}
+
+.wrapper .title {
+	text-align: center;
+}
+
+.wrapper .title p {
+	font-size: .18rem;
+	padding-top: 0.16rem;
+
+}
+
+.wrapper .img1 {
+	text-align: center;
+	margin-top: .31rem;
+
+}
+
+.wrapper .img1 img {
+	margin-top: .25rem;
+	width: 40%;
+	height: 50%;
+}
+
+.wrapper .b {
+	font-size: .2rem;
+	margin-top: .3rem;
+}
+
+.wrapper .b2 {
+	margin-top: 1rem;
+	font-size: .15rem;
+	color: gray;
+}
+
+.wrapper .b2 img {
+	width: 90%;
+	margin-top: .1rem;
+}
